@@ -23,7 +23,7 @@ A little about me:
 
 ### Here's a pic of Soup!
 <div>
-  <p style="float: left;"><img src="https://pbs.twimg.com/media/FnSFRxuWIAAWnBz?format=jpg&name=small" height="250px" width="200px" border="1px"></p>
+  <p style="float: left;"><img src="https://pbs.twimg.com/media/FnSFRxuWIAAWnBz?format=jpg&name=small"></p>
 </div>
 
 
