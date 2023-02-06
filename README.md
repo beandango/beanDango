@@ -23,8 +23,12 @@ A little about me:
 
 ### Here's a pic of Soup!
 <div>
-  <p style="float: left;"><img src="https://pbs.twimg.com/media/FnSFRxuWIAAWnBz?format=jpg&name=small"></p>
+  <p style="float: left;"><img src="https://media.discordapp.net/attachments/775834897742823478/1072191882299449365/ezgif.com-resize.jpeg"></p>
 </div>
+
+## :fire: My Stats :
+ [![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=beandango&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beandango&layout=compact&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
