@@ -1,10 +1,5 @@
 <div id="header" align="center">
   <img src="https://image.myanimelist.net/ui/BQM6jEZ-UJLgGUuvrNkYUOOnrjuH3cT6u_9TP_2jIH9xEaLVtDyeVxhgEV5fHfC11Nya3vhzkr5TxjaA8G_s-w"/>
-<div id="badges">
-  <a href="https://www.linkedin.com/in/sarah-hughes-98a387218/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
   <img src="https://komarev.com/ghpvc/?username=beanDango&style=flat-square&color=blue" alt=""/>
   <h1>
   hi there
@@ -12,7 +7,7 @@
 </h1>
 </div>
 
-## I'm Sarah
+## I'm Dango
 
 A little about me:
 
