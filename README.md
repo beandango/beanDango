@@ -11,7 +11,7 @@
 
 A little about me:
 
-* Full-Time student at University of Akron
+* Full-Time University student
 * Computer Science Major + Math Minor
 * I have a pet snake named Soup
 * Learning is pretty cool
