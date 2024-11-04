@@ -13,15 +13,14 @@
 
 A little about me:
 
-* Computer Science Major + Math Minor
-* Software Engineering Co-op
-* I have a pet snake named Soup
-* Learning is pretty cool
+* Software Engineering co-op
+* Weeb
+* Proud parent of Soup the ball python and my two cats, Skip and Shrimp
 
-### Here's Soup!
+### Soup, Shrimp, and Skip (in order!)!!
 <div>
-  <img style="float: left;margin: 5px;" src="https://media.discordapp.net/attachments/775834897742823478/1072191882299449365/ezgif.com-resize.jpeg" height="350px"></img>
-  <img style="float: right;" src="https://media.discordapp.net/attachments/848045038406860830/1105433493409902693/Fuu-mWaWYAIMnvw.png?width=1138&height=1138" height="350px"></img>
+  <img style="float: left;margin: 5px;" src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ztls7mjyzvrspu3xsaz5kx4d/bafkreieaqdskhrehzs33bwoz5cd4v56toqawh56dnmejz2pqg3hiaotrpe@jpeg" height="350px"></img>
+  <img style="float: right;" src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ztls7mjyzvrspu3xsaz5kx4d/bafkreihwcsz3pdgo6ng5hkztoa2664ooentug4pyjyi2acyqi777qs5bu4@jpeg" height="350px"></img>
 </div>
 
 ### Languages i've used:
@@ -32,6 +31,8 @@ A little about me:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="28px"></img>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="30px"></img>
 <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" height="30px"></img>
+
+What can I say, I like python :p
 
 ## :fire: My Stats :
  [![Dango's GitHub stats](https://github-readme-stats.vercel.app/api?username=beandango&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
