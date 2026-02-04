@@ -23,21 +23,10 @@ A little about me:
   <img style="float: right;" src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:ztls7mjyzvrspu3xsaz5kx4d/bafkreihwcsz3pdgo6ng5hkztoa2664ooentug4pyjyi2acyqi777qs5bu4@jpeg" height="350px"></img>
 </div>
 
-### Languages i've used:
-
-<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" height="30px"></img>
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" height="30px"></img>
-<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" height="30px"></img>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="28px"></img>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="30px"></img>
-<img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" height="30px"></img>
-
-What can I say, I like python :p
-
 ## :fire: My Stats :
- [![Dango's GitHub stats](https://github-readme-stats.vercel.app/api?username=beandango&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beandango&layout=compact&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=beandango&custom_title=GitHub+Stats&theme=catppuccin_mocha&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=false&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://github.com/beandango)
 
+[![Top Languages](https://helio-github-stats.vercel.app/api/top-langs?username=beandango&layout=normal&stats_format=percentages&theme=dark&hide_border=false&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Top+Languages&hide=Cython%2CHTML%2CCSS%2Cpowershell&langs_count=6&hide_progress=true)](https://github.com/beandango)
 
 <!--
 **beandango/beanDango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
